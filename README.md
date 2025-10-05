@@ -59,5 +59,5 @@ Program Studi Informatika – Universitas Singaperbangsa Karawang (UNSIKA)
 ---
 
 ## 🌐 Tautan Pendukung
-- 📄 [Presentasi Proyek (PDF)](./PPT%20Proyek_Prediksi%20harga%20mobil%20bekas.pdf)  
+- 📄 [Presentasi Proyek (PDF)](./PPT_Prediksi-harga-mobil-bekas.pdf)  
 - 📊 [Dataset CSV](./used_cars_price_fiks.csv)
